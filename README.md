@@ -13,8 +13,7 @@
 - [Future Directions](#future-directions)
 
 ## 🎯 Project Overview
-
-![image](https://github.com/user-attachments/assets/75d62dc0-0a93-443f-947e-ed84e39b0871)
+![Screenshot 2025-01-20 110605](https://github.com/user-attachments/assets/7039869e-d222-424a-8e7e-74cf9232be1e)
 
 
 ### The Challenge
