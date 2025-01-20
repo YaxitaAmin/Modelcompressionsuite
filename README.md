@@ -14,6 +14,9 @@
 
 ## 🎯 Project Overview
 
+![image](https://github.com/user-attachments/assets/75d62dc0-0a93-443f-947e-ed84e39b0871)
+
+
 ### The Challenge
 BERT models, while powerful, present significant deployment challenges:
 - 110M parameters requiring ~440MB storage
